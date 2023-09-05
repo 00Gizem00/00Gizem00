@@ -2,5 +2,5 @@
 
 👩‍💻 <Student @ Acun Medya Akademi Python Course>
   
-<Currently learning Javascript, Django, Data Structures & Algorithms>
+🧩<Currently learning Javascript, Django, Data Structures & Algorithms>
 
