@@ -1,6 +1,6 @@
 👋 I'm Gizem Yılmaz
 
-👩‍💻 <Jr. Python Web Developer>
+👩‍💻 <Python Web Developer>
   
 💬 Talk to me about: Python, React
 
